@@ -1,7 +1,7 @@
 # Sales-Executive-Report
 Excel Sales Dashboard
 ![Screenshot 2025-01-05 132827](https://github.com/user-attachments/assets/2ad0beff-3054-45d4-b99b-0df3acad3f2b)
-I am happy to share my Excel project. This project is about Sales performance in different Indian cities by sales persons.
+This project is about Sales performance in different Indian cities by sales persons.
 
 𝟭𝘀𝘁: We can filter by each city-wise figure by clicking on the individual city.
 
