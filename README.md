@@ -15,4 +15,4 @@ This project is about Sales performance in different Indian cities by sales pers
 
 𝗡𝗼𝘁𝗲: There are also some advanced macros used in this report.
 
-𝗢𝘃𝗲𝗿𝗮𝗹𝗹: This project give a clear picture of each cities individual sales record from target sales and performance of each person. We can go through each persons' total sales, target wise hit sales and away from target. There are more more metrics possible according to business needs to be evaluated.
+𝗢𝘃𝗲𝗿𝗮𝗹𝗹: This project give a clear picture of each cities individual sales record from target sales and performance of each person. We can go through each persons' total sales, target wise hit sales and away from target. There are more metrics possible according to business needs to be evaluated.
